@@ -11,7 +11,7 @@ In this checkpoint students will demonstrate a working knowledge of building ful
 
 Kanban is a simple enough application. Users have the request to be able to create and manage boards, lists, and tasks. Tasks should also have the ability to add notes or comments. This setup will take a while to get all ironed out but we have some time to work on it so don't fret.
 
-A board manages several lists. Once created lists can not be transfered between boards but they can be removed. If a list is removed go ahead and remove all of the tasks and comments on the list as well to avoid orphan data.
+A board manages several lists. Once created lists can not be transferred between boards but they can be removed. If a list is removed go ahead and remove all of the tasks and comments on the list as well to avoid orphan data.
 
 A task should be able to move between any of the lists on whatever board it was created. Tasks can be removed individually. 
 
@@ -19,7 +19,7 @@ Comments always belong to a task and will transfer with the task when moved. Thi
 
 ## The Setup
 
-Perhaps on of the most important skills to obtain on your road to becoming a Software Engineer is the ability to work on large projects. Especially when those larger projects have a code scaffolding that has been set up by someone other than yourself. It is important to be able to jump into the mix of a development teams build and disect what everything is doing. 
+Perhaps on of the most important skills to obtain on your road to becoming a Software Engineer is the ability to work on large projects. Especially when those larger projects have a code scaffolding that has been set up by someone other than yourself. It is important to be able to jump into the mix of a development teams build and dissect what everything is doing. 
 
 As we move into these larger projects we are also going to start enforcing stricter guidelines to help teach the concepts of Object Oriented Programming.
 
